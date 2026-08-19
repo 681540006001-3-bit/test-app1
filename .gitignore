@@ -1,5 +1,5 @@
 .env
-".env
-".key
+*.env
+*.key
 
 /secret
